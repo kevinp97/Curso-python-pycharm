@@ -1,0 +1,7 @@
+[09:57:31 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 3; tipo de cafe: cortado
+[09:57:31 AM: Ejercicio 9.py:78] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:57:31 AM: Ejercicio 9.py:81] INFO:El camarero Camarero atiende al cliente Cliente
+[09:57:31 AM: Ejercicio 9.py:85] INFO:El cliente le pide un cortado
+[09:57:31 AM: Ejercicio 9.py:70] INFO:Camarero sirve el cafe a 3°
+[09:57:31 AM: Ejercicio 9.py:94] ERROR:El cliente está protestando porque se le ha quemado la lengua
+[09:57:31 AM: Ejercicio 9.py:95] ERROR:El camarero le calienta más el café

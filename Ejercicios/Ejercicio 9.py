@@ -34,7 +34,7 @@ import logging as log
 log.basicConfig(level=log.DEBUG,
                 format='[%(asctime)s: %(filename)s:%(lineno)s] %(levelname)s:%(message)s',
                 datefmt= '%I:%M:%S %p',
-                handlers=[log.FileHandler('C:\\Users\\kevin\\PycharmProjects\\Formacion\\logs\\curso_python.log'),
+                handlers=[log.FileHandler('../logs/ejercicio9.log'),
                           log.StreamHandler()])
 
 from Ejercicios.Excepciones.excepciones_ejer9 import TemperatureException,TooColdTemperatureException,TooHotTemperatureException
