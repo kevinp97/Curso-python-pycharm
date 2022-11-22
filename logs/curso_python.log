@@ -1,0 +1,187 @@
+[modulo_log.py:24] ERROR:Esto es un log de prueba de error
+[modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[modulo_log.py:24] ERROR:Esto es un log de prueba de error
+[modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[modulo_log.py:24] ERROR:Esto es un log de prueba de error
+[modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[08:47:07 AM: modulo_log.py:24] ERROR:Esto es un log de prueba de error
+[08:47:07 AM: modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[08:56:26 AM: modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[08:56:36 AM: modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[08:56:59 AM: modulo_log.py:24] ERROR:Esto es un log de prueba de error
+[08:56:59 AM: modulo_log.py:25] DEBUG:Esto es un log de prueba de debug
+[09:00:55 AM: Ejercicio 9.py:59] INFO:Temperatura de cafe: 10; tipo de cafe: descafeinado
+[09:06:22 AM: Ejercicio 9.py:59] INFO:Temperatura de cafe: 64; tipo de cafe: cafe con leche
+[09:09:40 AM: Ejercicio 9.py:59] INFO:Temperatura de cafe: 13; tipo de cafe: bombon
+[09:13:36 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 0; tipo de cafe: cafe con leche
+[09:14:14 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 78; tipo de cafe: cafe con leche
+[09:14:14 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 78
+[09:15:01 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 43; tipo de cafe: bombon
+[09:15:01 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 43
+[09:15:22 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 35; tipo de cafe: bombon
+[09:15:22 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A <__main__.TazaCafe object at 0x0000016EB25CFF90>
+[09:18:02 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 95; tipo de cafe: cafe con leche
+[09:18:02 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A <__main__.TazaCafe object at 0x00000208AFF5FE50>
+[09:20:48 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 96; tipo de cafe: cafe con leche
+[09:20:48 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:20:48 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:20:48 AM: Ejercicio 9.py:86] INFO:El cliente le pide un cafe con leche
+[09:20:48 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 96°
+[09:20:48 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A <__main__.TazaCafe object at 0x0000028583D0FF10>
+[09:20:48 AM: Ejercicio 9.py:93] INFO:Error
+[09:20:48 AM: Ejercicio 9.py:95] INFO:La gente del bar observa la situacion
+[09:20:58 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 85; tipo de cafe: descafeinado
+[09:20:58 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:20:58 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:20:58 AM: Ejercicio 9.py:86] INFO:El cliente le pide un descafeinado
+[09:20:58 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 85°
+[09:20:58 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 85
+[09:20:58 AM: Ejercicio 9.py:93] INFO:Error
+[09:20:58 AM: Ejercicio 9.py:95] INFO:La gente del bar observa la situacion
+[09:23:21 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 49; tipo de cafe: descafeinado
+[09:23:21 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:23:21 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:23:21 AM: Ejercicio 9.py:90] INFO:El cliente le pide un descafeinado
+[09:23:21 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 49°
+[09:23:21 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 49
+[09:23:21 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:23:21 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:23:28 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 55; tipo de cafe: bombon
+[09:23:28 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:23:28 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:23:28 AM: Ejercicio 9.py:90] INFO:El cliente le pide un bombon
+[09:23:28 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 55°
+[09:23:28 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 55
+[09:23:28 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:23:28 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:23:31 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 90; tipo de cafe: bombon
+[09:23:31 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:23:31 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:23:31 AM: Ejercicio 9.py:90] INFO:El cliente le pide un bombon
+[09:23:31 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 90°
+[09:23:31 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 90
+[09:23:31 AM: Ejercicio 9.py:57] INFO:aquiiiii
+[09:23:31 AM: Ejercicio 9.py:97] INFO:Error
+[09:23:31 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:25:08 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 65; tipo de cafe: cafe con leche
+[09:25:08 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:25:08 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:25:08 AM: Ejercicio 9.py:90] INFO:El cliente le pide un cafe con leche
+[09:25:08 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 65°
+[09:25:08 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 65
+[09:25:08 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:25:08 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:25:14 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 65; tipo de cafe: bombon
+[09:25:14 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:25:14 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:25:14 AM: Ejercicio 9.py:90] INFO:El cliente le pide un bombon
+[09:25:14 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 65°
+[09:25:14 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 65
+[09:25:14 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:25:14 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:25:17 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 68; tipo de cafe: bombon
+[09:25:17 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:25:17 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:25:17 AM: Ejercicio 9.py:90] INFO:El cliente le pide un bombon
+[09:25:17 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 68°
+[09:25:17 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 68
+[09:25:17 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:25:17 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:25:19 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 42; tipo de cafe: bombon
+[09:25:19 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:25:19 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:25:19 AM: Ejercicio 9.py:90] INFO:El cliente le pide un bombon
+[09:25:19 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 42°
+[09:25:19 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 42
+[09:25:19 AM: Ejercicio 9.py:67] INFO:El cliente se ha tomado el cafe
+[09:25:19 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:25:23 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 83; tipo de cafe: cortado
+[09:25:23 AM: Ejercicio 9.py:83] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:25:23 AM: Ejercicio 9.py:86] INFO:El camarero Camarero atiende al cliente Cliente
+[09:25:23 AM: Ejercicio 9.py:90] INFO:El cliente le pide un cortado
+[09:25:23 AM: Ejercicio 9.py:75] INFO:Camarero sirve el cafe a 83°
+[09:25:23 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 83
+[09:25:23 AM: Ejercicio 9.py:57] INFO:aquiiiii
+[09:25:23 AM: Ejercicio 9.py:97] INFO:Error
+[09:25:23 AM: Ejercicio 9.py:99] INFO:La gente del bar observa la situacion
+[09:26:36 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 58; tipo de cafe: bombon
+[09:26:36 AM: Ejercicio 9.py:80] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:26:36 AM: Ejercicio 9.py:83] INFO:El camarero Camarero atiende al cliente Cliente
+[09:26:36 AM: Ejercicio 9.py:87] INFO:El cliente le pide un bombon
+[09:26:36 AM: Ejercicio 9.py:72] INFO:Camarero sirve el cafe a 58°
+[09:26:36 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 58
+[09:26:36 AM: Ejercicio 9.py:64] INFO:El cliente se ha tomado el cafe
+[09:26:36 AM: Ejercicio 9.py:96] INFO:La gente del bar observa la situacion
+[09:26:42 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 24; tipo de cafe: descafeinado
+[09:26:42 AM: Ejercicio 9.py:80] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:26:42 AM: Ejercicio 9.py:83] INFO:El camarero Camarero atiende al cliente Cliente
+[09:26:42 AM: Ejercicio 9.py:87] INFO:El cliente le pide un descafeinado
+[09:26:42 AM: Ejercicio 9.py:72] INFO:Camarero sirve el cafe a 24°
+[09:26:42 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 24
+[09:26:42 AM: Ejercicio 9.py:64] INFO:El cliente se ha tomado el cafe
+[09:26:42 AM: Ejercicio 9.py:96] INFO:La gente del bar observa la situacion
+[09:26:45 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 63; tipo de cafe: descafeinado
+[09:26:45 AM: Ejercicio 9.py:80] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:26:45 AM: Ejercicio 9.py:83] INFO:El camarero Camarero atiende al cliente Cliente
+[09:26:45 AM: Ejercicio 9.py:87] INFO:El cliente le pide un descafeinado
+[09:26:45 AM: Ejercicio 9.py:72] INFO:Camarero sirve el cafe a 63°
+[09:26:45 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 63
+[09:26:45 AM: Ejercicio 9.py:64] INFO:El cliente se ha tomado el cafe
+[09:26:45 AM: Ejercicio 9.py:96] INFO:La gente del bar observa la situacion
+[09:26:47 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 88; tipo de cafe: cafe con leche
+[09:26:47 AM: Ejercicio 9.py:80] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:26:47 AM: Ejercicio 9.py:83] INFO:El camarero Camarero atiende al cliente Cliente
+[09:26:47 AM: Ejercicio 9.py:87] INFO:El cliente le pide un cafe con leche
+[09:26:47 AM: Ejercicio 9.py:72] INFO:Camarero sirve el cafe a 88°
+[09:26:47 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 88
+[09:26:47 AM: Ejercicio 9.py:94] INFO:Error
+[09:26:47 AM: Ejercicio 9.py:96] INFO:La gente del bar observa la situacion
+[09:26:57 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 3; tipo de cafe: cortado
+[09:26:57 AM: Ejercicio 9.py:80] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:26:57 AM: Ejercicio 9.py:83] INFO:El camarero Camarero atiende al cliente Cliente
+[09:26:57 AM: Ejercicio 9.py:87] INFO:El cliente le pide un cortado
+[09:26:57 AM: Ejercicio 9.py:72] INFO:Camarero sirve el cafe a 3°
+[09:26:57 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 3
+[09:26:57 AM: Ejercicio 9.py:94] INFO:Error
+[09:26:57 AM: Ejercicio 9.py:96] INFO:La gente del bar observa la situacion
+[09:32:33 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 39; tipo de cafe: cortado
+[09:32:33 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:32:33 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:32:33 AM: Ejercicio 9.py:86] INFO:El cliente le pide un cortado
+[09:32:33 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 39°
+[09:32:33 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 39
+[09:32:33 AM: Ejercicio 9.py:97] INFO:El cliente se ha tomado el cafe
+[09:32:37 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 41; tipo de cafe: descafeinado
+[09:32:37 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:32:37 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:32:37 AM: Ejercicio 9.py:86] INFO:El cliente le pide un descafeinado
+[09:32:37 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 41°
+[09:32:37 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 41
+[09:32:37 AM: Ejercicio 9.py:97] INFO:El cliente se ha tomado el cafe
+[09:32:40 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 60; tipo de cafe: descafeinado
+[09:32:40 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:32:40 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:32:40 AM: Ejercicio 9.py:86] INFO:El cliente le pide un descafeinado
+[09:32:40 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 60°
+[09:32:40 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 60
+[09:32:40 AM: Ejercicio 9.py:97] INFO:El cliente se ha tomado el cafe
+[09:32:43 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 96; tipo de cafe: cafe con leche
+[09:32:43 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:32:43 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:32:43 AM: Ejercicio 9.py:86] INFO:El cliente le pide un cafe con leche
+[09:32:43 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 96°
+[09:32:43 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 96
+[09:32:43 AM: Ejercicio 9.py:93] ERROR:El cliente se ha quemado la lengua
+[09:34:13 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 75; tipo de cafe: bombon
+[09:34:13 AM: Ejercicio 9.py:79] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:34:13 AM: Ejercicio 9.py:82] INFO:El camarero Camarero atiende al cliente Cliente
+[09:34:13 AM: Ejercicio 9.py:86] INFO:El cliente le pide un bombon
+[09:34:13 AM: Ejercicio 9.py:71] INFO:Camarero sirve el cafe a 75°
+[09:34:13 AM: Ejercicio 9.py:55] INFO:El CAFE ESTA A 75
+[09:34:13 AM: Ejercicio 9.py:100] INFO:El cliente se ha tomado el cafe
+[09:34:25 AM: Ejercicio 9.py:46] INFO:Temperatura de cafe: 97; tipo de cafe: cafe con leche
+[09:34:25 AM: Ejercicio 9.py:78] INFO:El cliente Cliente entra al bar y se sienta en una mesa
+[09:34:25 AM: Ejercicio 9.py:81] INFO:El camarero Camarero atiende al cliente Cliente
+[09:34:25 AM: Ejercicio 9.py:85] INFO:El cliente le pide un cafe con leche
+[09:34:25 AM: Ejercicio 9.py:70] INFO:Camarero sirve el cafe a 97°
+[09:34:25 AM: Ejercicio 9.py:92] ERROR:El cliente se ha quemado la lengua
