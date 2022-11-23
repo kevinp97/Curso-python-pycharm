@@ -1,0 +1,1646 @@
+[02:19:07 PM: Ejercicio10.py:54] DEBUG:Se va ha afinar el instrumento
+[02:19:07 PM: Ejercicio10.py:56] DEBUG:Se ha afinado el instrumento guitarra
+[02:19:37 PM: Ejercicio10.py:54] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:19:37 PM: Ejercicio10.py:56] DEBUG:Se ha afinado el instrumento guitarra
+[02:28:31 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:28:31 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:28:31 PM: Ejercicio10.py:61] DEBUG:Se va a tocar el instrumento: guitarra
+[02:28:32 PM: Ejercicio10.py:63] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[02:28:43 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:28:43 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:28:43 PM: Ejercicio10.py:61] DEBUG:Se va a tocar el instrumento: guitarra
+[02:28:43 PM: Ejercicio10.py:76] ERROR:El instrumento guitarra no está afinado correctamente
+[02:46:02 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:46:02 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:46:02 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:46:02 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:46:02 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:46:02 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:46:02 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:46:02 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:46:02 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:46:02 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:46:02 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:46:02 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:48:14 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:48:14 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:48:14 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:48:14 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:48:14 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:48:14 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:48:14 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:48:14 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:48:14 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:48:14 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:48:14 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:48:14 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:50:05 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:50:05 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:50:05 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:50:05 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:50:05 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:50:05 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:50:05 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:50:05 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:50:05 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:50:05 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:50:05 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:50:05 PM: Ejercicio10.py:149] ERROR:Algo pasa en la orquesta
+[02:50:52 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:50:52 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:50:52 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:50:52 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:50:52 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:50:52 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:50:52 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:50:52 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:50:52 PM: Ejercicio10.py:143] INFO:-----------------<__main__.Guitarra object at 0x000001D050670710>
+[02:50:52 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:50:52 PM: Ejercicio10.py:143] INFO:-----------------<__main__.Guitarra_electrica object at 0x000001D050670750>
+[02:50:52 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:50:52 PM: Ejercicio10.py:143] INFO:-----------------<__main__.Piano object at 0x000001D050670790>
+[02:50:52 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:50:52 PM: Ejercicio10.py:143] INFO:-----------------<__main__.Tambor object at 0x000001D0506707D0>
+[02:50:52 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:51:19 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:51:19 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:51:19 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:51:19 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:51:19 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:51:19 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:51:19 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:51:19 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:51:19 PM: Ejercicio10.py:143] INFO:-----------------guitarra
+[02:51:19 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:51:19 PM: Ejercicio10.py:143] INFO:-----------------guitarra electrica
+[02:51:19 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:51:19 PM: Ejercicio10.py:143] INFO:-----------------piano
+[02:51:19 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:51:19 PM: Ejercicio10.py:143] INFO:-----------------tambor
+[02:51:19 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:52:51 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:52:51 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:52:51 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:52:51 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:52:51 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:52:51 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:52:51 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:52:51 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:52:51 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[02:52:51 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:52:51 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[02:52:51 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:52:51 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[02:52:51 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:52:51 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[02:52:51 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:53:00 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:53:00 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:53:00 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:53:00 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:53:00 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:53:00 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:53:00 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:53:00 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:53:00 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[02:53:00 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:53:00 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[02:53:00 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:53:00 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[02:53:00 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:53:00 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[02:53:00 PM: Ejercicio10.py:150] ERROR:Algo pasa en la orquesta
+[02:53:35 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:53:35 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:53:35 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:53:35 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:53:35 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:53:35 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:53:35 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:53:35 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:53:35 PM: Ejercicio10.py:143] INFO:Instrumento afinado? --------- False
+[02:53:35 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:53:35 PM: Ejercicio10.py:143] INFO:Instrumento afinado? --------- False
+[02:53:35 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:53:35 PM: Ejercicio10.py:143] INFO:Instrumento afinado? --------- False
+[02:53:35 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:53:35 PM: Ejercicio10.py:143] INFO:Instrumento afinado? --------- True
+[02:53:35 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:55:15 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:55:15 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[02:55:15 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:55:15 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:55:15 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:55:15 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:55:15 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[02:55:15 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[02:55:15 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:55:15 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[02:55:15 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[02:55:15 PM: Ejercicio10.py:151] ERROR:Algo pasa en la orquesta
+[02:59:22 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:59:22 PM: Ejercicio10.py:57] INFO:---------------False
+[02:59:22 PM: Ejercicio10.py:58] DEBUG:Se ha afinado el instrumento: guitarra
+[02:59:22 PM: Ejercicio10.py:76] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:59:22 PM: Ejercicio10.py:78] INFO:---------------True
+[02:59:22 PM: Ejercicio10.py:79] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:59:22 PM: Ejercicio10.py:97] DEBUG:Se va ha afinar el instrumento: piano
+[02:59:22 PM: Ejercicio10.py:99] INFO:---------------True
+[02:59:22 PM: Ejercicio10.py:100] DEBUG:Se ha afinado el instrumento: piano
+[02:59:22 PM: Ejercicio10.py:119] DEBUG:Se va ha afinar el instrumento: tambor
+[02:59:22 PM: Ejercicio10.py:121] INFO:---------------True
+[02:59:22 PM: Ejercicio10.py:122] DEBUG:Se ha afinado el instrumento: tambor
+[02:59:22 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- False
+[02:59:22 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:22 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:22 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:22 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:22 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:22 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:22 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:32 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:59:32 PM: Ejercicio10.py:57] INFO:---------------False
+[02:59:32 PM: Ejercicio10.py:58] DEBUG:Se ha afinado el instrumento: guitarra
+[02:59:32 PM: Ejercicio10.py:76] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:59:32 PM: Ejercicio10.py:78] INFO:---------------True
+[02:59:32 PM: Ejercicio10.py:79] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:59:32 PM: Ejercicio10.py:97] DEBUG:Se va ha afinar el instrumento: piano
+[02:59:32 PM: Ejercicio10.py:99] INFO:---------------True
+[02:59:32 PM: Ejercicio10.py:100] DEBUG:Se ha afinado el instrumento: piano
+[02:59:32 PM: Ejercicio10.py:119] DEBUG:Se va ha afinar el instrumento: tambor
+[02:59:32 PM: Ejercicio10.py:121] INFO:---------------True
+[02:59:32 PM: Ejercicio10.py:122] DEBUG:Se ha afinado el instrumento: tambor
+[02:59:32 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- False
+[02:59:32 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:32 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:32 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:32 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:32 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:32 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:32 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:38 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[02:59:38 PM: Ejercicio10.py:57] INFO:---------------True
+[02:59:38 PM: Ejercicio10.py:58] DEBUG:Se ha afinado el instrumento: guitarra
+[02:59:38 PM: Ejercicio10.py:76] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[02:59:38 PM: Ejercicio10.py:78] INFO:---------------True
+[02:59:38 PM: Ejercicio10.py:79] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[02:59:38 PM: Ejercicio10.py:97] DEBUG:Se va ha afinar el instrumento: piano
+[02:59:38 PM: Ejercicio10.py:99] INFO:---------------True
+[02:59:38 PM: Ejercicio10.py:100] DEBUG:Se ha afinado el instrumento: piano
+[02:59:38 PM: Ejercicio10.py:119] DEBUG:Se va ha afinar el instrumento: tambor
+[02:59:38 PM: Ejercicio10.py:121] INFO:---------------True
+[02:59:38 PM: Ejercicio10.py:122] DEBUG:Se ha afinado el instrumento: tambor
+[02:59:38 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:38 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:38 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:38 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:38 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:38 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[02:59:38 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[02:59:38 PM: Ejercicio10.py:158] ERROR:Algo pasa en la orquesta
+[03:00:19 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:00:19 PM: Ejercicio10.py:57] INFO:---------------True
+[03:00:19 PM: Ejercicio10.py:58] DEBUG:Se ha afinado el instrumento: guitarra
+[03:00:19 PM: Ejercicio10.py:76] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:00:19 PM: Ejercicio10.py:78] INFO:---------------False
+[03:00:19 PM: Ejercicio10.py:79] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:00:19 PM: Ejercicio10.py:97] DEBUG:Se va ha afinar el instrumento: piano
+[03:00:19 PM: Ejercicio10.py:99] INFO:---------------True
+[03:00:19 PM: Ejercicio10.py:100] DEBUG:Se ha afinado el instrumento: piano
+[03:00:19 PM: Ejercicio10.py:119] DEBUG:Se va ha afinar el instrumento: tambor
+[03:00:19 PM: Ejercicio10.py:121] INFO:---------------False
+[03:00:19 PM: Ejercicio10.py:122] DEBUG:Se ha afinado el instrumento: tambor
+[03:00:19 PM: Ejercicio10.py:150] INFO:Instrumento afinado? --------- True
+[03:01:43 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:01:43 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[03:01:43 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:01:43 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:01:43 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[03:01:43 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[03:01:43 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[03:01:43 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[03:01:43 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[03:01:43 PM: Ejercicio10.py:61] DEBUG:Se va a tocar el instrumento: guitarra
+[03:01:43 PM: Ejercicio10.py:63] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:01:43 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[03:01:43 PM: Ejercicio10.py:80] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:01:43 PM: Ejercicio10.py:82] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:01:43 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- False
+[03:01:43 PM: Ejercicio10.py:99] DEBUG:Se va a tocar el instrumento: piano
+[03:01:43 PM: Ejercicio10.py:147] ERROR:El instrumento piano no está afinado correctamente
+[03:01:43 PM: Ejercicio10.py:142] INFO:Instrumento afinado? --------- True
+[03:01:43 PM: Ejercicio10.py:119] DEBUG:Se va a tocar el instrumento: tambor
+[03:01:43 PM: Ejercicio10.py:121] DEBUG:Se está tocando correctamente el instrumento: tambor
+[03:01:58 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:01:58 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[03:01:58 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:01:58 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:01:58 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[03:01:58 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[03:01:58 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[03:01:58 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+[03:01:58 PM: Ejercicio10.py:61] DEBUG:Se va a tocar el instrumento: guitarra
+[03:01:58 PM: Ejercicio10.py:63] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:01:58 PM: Ejercicio10.py:80] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:01:58 PM: Ejercicio10.py:146] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:01:58 PM: Ejercicio10.py:99] DEBUG:Se va a tocar el instrumento: piano
+[03:01:58 PM: Ejercicio10.py:146] ERROR:El instrumento piano no está afinado correctamente
+[03:01:58 PM: Ejercicio10.py:119] DEBUG:Se va a tocar el instrumento: tambor
+[03:01:58 PM: Ejercicio10.py:121] DEBUG:Se está tocando correctamente el instrumento: tambor
+[03:02:41 PM: Ejercicio10.py:55] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:02:41 PM: Ejercicio10.py:57] DEBUG:Se ha afinado el instrumento: guitarra
+[03:02:41 PM: Ejercicio10.py:74] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:02:41 PM: Ejercicio10.py:76] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:02:41 PM: Ejercicio10.py:93] DEBUG:Se va ha afinar el instrumento: piano
+[03:02:41 PM: Ejercicio10.py:95] DEBUG:Se ha afinado el instrumento: piano
+[03:02:41 PM: Ejercicio10.py:113] DEBUG:Se va ha afinar el instrumento: tambor
+[03:02:41 PM: Ejercicio10.py:115] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:02:41 PM: Ejercicio10.py:61] DEBUG:Se va a tocar el instrumento: guitarra
+[03:02:41 PM: Ejercicio10.py:63] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:02:41 PM: Ejercicio10.py:80] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:02:41 PM: Ejercicio10.py:82] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:02:41 PM: Ejercicio10.py:99] DEBUG:Se va a tocar el instrumento: piano
+[03:02:41 PM: Ejercicio10.py:101] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:02:41 PM: Ejercicio10.py:119] DEBUG:Se va a tocar el instrumento: tambor
+[03:02:41 PM: Ejercicio10.py:146] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:11:02 PM: Ejercicio10.py:45] DEBUG:ENTRADAAA-------------------------
+[03:11:44 PM: Ejercicio10.py:45] DEBUG:ENTRADAAA-------------------------
+[03:12:33 PM: Ejercicio10.py:45] DEBUG:ENTRADAAA-------------------------
+[03:13:11 PM: Ejercicio10.py:45] DEBUG:ENTRADAAA-------------------------
+[03:13:11 PM: Ejercicio10.py:63] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:13:11 PM: Ejercicio10.py:65] DEBUG:Se ha afinado el instrumento: guitarra
+[03:13:11 PM: Ejercicio10.py:47] DEBUG:SALIDAAAA-------------------------
+[03:13:11 PM: Ejercicio10.py:82] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:13:11 PM: Ejercicio10.py:84] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:13:11 PM: Ejercicio10.py:101] DEBUG:Se va ha afinar el instrumento: piano
+[03:13:11 PM: Ejercicio10.py:103] DEBUG:Se ha afinado el instrumento: piano
+[03:13:11 PM: Ejercicio10.py:121] DEBUG:Se va ha afinar el instrumento: tambor
+[03:13:11 PM: Ejercicio10.py:123] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:13:11 PM: Ejercicio10.py:69] DEBUG:Se va a tocar el instrumento: guitarra
+[03:13:11 PM: Ejercicio10.py:154] ERROR:El instrumento guitarra no está afinado correctamente
+[03:13:11 PM: Ejercicio10.py:88] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:13:11 PM: Ejercicio10.py:154] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:13:11 PM: Ejercicio10.py:107] DEBUG:Se va a tocar el instrumento: piano
+[03:13:11 PM: Ejercicio10.py:109] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:13:11 PM: Ejercicio10.py:127] DEBUG:Se va a tocar el instrumento: tambor
+[03:13:11 PM: Ejercicio10.py:129] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[03:15:01 PM: Ejercicio10.py:45] DEBUG:Se va ha afinar el instrumento: (<__main__.Guitarra object at 0x0000022828850B10>,)
+[03:15:01 PM: Ejercicio10.py:47] DEBUG:Se va ha afinar el instrumento: (<__main__.Guitarra object at 0x0000022828850B10>,)
+[03:15:01 PM: Ejercicio10.py:82] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:15:01 PM: Ejercicio10.py:84] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:15:01 PM: Ejercicio10.py:101] DEBUG:Se va ha afinar el instrumento: piano
+[03:15:01 PM: Ejercicio10.py:103] DEBUG:Se ha afinado el instrumento: piano
+[03:15:01 PM: Ejercicio10.py:121] DEBUG:Se va ha afinar el instrumento: tambor
+[03:15:01 PM: Ejercicio10.py:123] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:15:01 PM: Ejercicio10.py:69] DEBUG:Se va a tocar el instrumento: guitarra
+[03:15:01 PM: Ejercicio10.py:71] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:15:01 PM: Ejercicio10.py:88] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:15:01 PM: Ejercicio10.py:90] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:15:01 PM: Ejercicio10.py:107] DEBUG:Se va a tocar el instrumento: piano
+[03:15:01 PM: Ejercicio10.py:154] ERROR:El instrumento piano no está afinado correctamente
+[03:15:01 PM: Ejercicio10.py:127] DEBUG:Se va a tocar el instrumento: tambor
+[03:15:01 PM: Ejercicio10.py:154] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:16:00 PM: Ejercicio10.py:45] DEBUG:Se va ha afinar el instrumento: <__main__.Guitarra object at 0x000002E57B460B10>
+[03:16:08 PM: Ejercicio10.py:45] DEBUG:Se va ha afinar el instrumento: <__main__.Guitarra object at 0x000001D52B230B50>
+[03:16:08 PM: Ejercicio10.py:47] DEBUG:Se va ha afinar el instrumento: <__main__.Guitarra object at 0x000001D52B230B50>
+[03:16:08 PM: Ejercicio10.py:82] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:16:08 PM: Ejercicio10.py:84] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:16:08 PM: Ejercicio10.py:101] DEBUG:Se va ha afinar el instrumento: piano
+[03:16:08 PM: Ejercicio10.py:103] DEBUG:Se ha afinado el instrumento: piano
+[03:16:08 PM: Ejercicio10.py:121] DEBUG:Se va ha afinar el instrumento: tambor
+[03:16:08 PM: Ejercicio10.py:123] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:16:08 PM: Ejercicio10.py:69] DEBUG:Se va a tocar el instrumento: guitarra
+[03:16:08 PM: Ejercicio10.py:71] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:16:08 PM: Ejercicio10.py:88] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:16:08 PM: Ejercicio10.py:154] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:16:08 PM: Ejercicio10.py:107] DEBUG:Se va a tocar el instrumento: piano
+[03:16:08 PM: Ejercicio10.py:109] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:16:08 PM: Ejercicio10.py:127] DEBUG:Se va a tocar el instrumento: tambor
+[03:16:08 PM: Ejercicio10.py:129] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[03:16:22 PM: Ejercicio10.py:45] DEBUG:Se va ha afinar el instrumento: (<__main__.Guitarra object at 0x000001BCEC9D0B10>,)
+[03:16:22 PM: Ejercicio10.py:47] DEBUG:Se va ha afinar el instrumento: (<__main__.Guitarra object at 0x000001BCEC9D0B10>,)
+[03:16:22 PM: Ejercicio10.py:82] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:16:22 PM: Ejercicio10.py:84] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:16:22 PM: Ejercicio10.py:101] DEBUG:Se va ha afinar el instrumento: piano
+[03:16:22 PM: Ejercicio10.py:103] DEBUG:Se ha afinado el instrumento: piano
+[03:16:22 PM: Ejercicio10.py:121] DEBUG:Se va ha afinar el instrumento: tambor
+[03:16:22 PM: Ejercicio10.py:123] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:16:22 PM: Ejercicio10.py:69] DEBUG:Se va a tocar el instrumento: guitarra
+[03:16:22 PM: Ejercicio10.py:71] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:16:22 PM: Ejercicio10.py:88] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:16:22 PM: Ejercicio10.py:90] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:16:22 PM: Ejercicio10.py:107] DEBUG:Se va a tocar el instrumento: piano
+[03:16:22 PM: Ejercicio10.py:154] ERROR:El instrumento piano no está afinado correctamente
+[03:16:22 PM: Ejercicio10.py:127] DEBUG:Se va a tocar el instrumento: tambor
+[03:16:22 PM: Ejercicio10.py:154] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:17:33 PM: Ejercicio10.py:45] DEBUG:Se va ha afinar el instrumento: <__main__.Guitarra object at 0x0000012AC1B10BD0>
+[03:20:13 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:20:13 PM: Ejercicio10.py:48] DEBUG:Se ha afinado el instrumento: guitarra
+[03:20:13 PM: Ejercicio10.py:84] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:20:13 PM: Ejercicio10.py:86] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:20:13 PM: Ejercicio10.py:103] DEBUG:Se va ha afinar el instrumento: piano
+[03:20:13 PM: Ejercicio10.py:105] DEBUG:Se ha afinado el instrumento: piano
+[03:20:13 PM: Ejercicio10.py:123] DEBUG:Se va ha afinar el instrumento: tambor
+[03:20:13 PM: Ejercicio10.py:125] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:20:13 PM: Ejercicio10.py:71] DEBUG:Se va a tocar el instrumento: guitarra
+[03:20:13 PM: Ejercicio10.py:73] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:20:13 PM: Ejercicio10.py:90] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:20:13 PM: Ejercicio10.py:156] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:20:13 PM: Ejercicio10.py:109] DEBUG:Se va a tocar el instrumento: piano
+[03:20:13 PM: Ejercicio10.py:156] ERROR:El instrumento piano no está afinado correctamente
+[03:20:13 PM: Ejercicio10.py:129] DEBUG:Se va a tocar el instrumento: tambor
+[03:20:13 PM: Ejercicio10.py:156] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:24:06 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:24:06 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+[03:24:06 PM: Ejercicio10.py:83] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:24:06 PM: Ejercicio10.py:85] DEBUG:Se ha afinado el instrumento: guitarra electrica
+[03:24:06 PM: Ejercicio10.py:102] DEBUG:Se va ha afinar el instrumento: piano
+[03:24:06 PM: Ejercicio10.py:104] DEBUG:Se ha afinado el instrumento: piano
+[03:24:06 PM: Ejercicio10.py:122] DEBUG:Se va ha afinar el instrumento: tambor
+[03:24:06 PM: Ejercicio10.py:124] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:24:06 PM: Ejercicio10.py:70] DEBUG:Se va a tocar el instrumento: guitarra
+[03:24:06 PM: Ejercicio10.py:155] ERROR:El instrumento guitarra no está afinado correctamente
+[03:24:06 PM: Ejercicio10.py:89] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:24:06 PM: Ejercicio10.py:155] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:24:06 PM: Ejercicio10.py:108] DEBUG:Se va a tocar el instrumento: piano
+[03:24:06 PM: Ejercicio10.py:110] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:24:06 PM: Ejercicio10.py:128] DEBUG:Se va a tocar el instrumento: tambor
+[03:24:06 PM: Ejercicio10.py:155] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:25:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:25:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+[03:25:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+[03:25:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+[03:25:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+[03:25:09 PM: Ejercicio10.py:70] DEBUG:Se va a tocar el instrumento: guitarra
+[03:25:09 PM: Ejercicio10.py:72] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:25:09 PM: Ejercicio10.py:90] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:25:09 PM: Ejercicio10.py:158] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:25:09 PM: Ejercicio10.py:110] DEBUG:Se va a tocar el instrumento: piano
+[03:25:09 PM: Ejercicio10.py:112] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:25:09 PM: Ejercicio10.py:131] DEBUG:Se va a tocar el instrumento: tambor
+[03:25:09 PM: Ejercicio10.py:133] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[03:25:22 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:25:22 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[03:25:22 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:22 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+
+[03:25:22 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:22 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+
+[03:25:22 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: None
+[03:25:22 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: None
+
+[03:25:22 PM: Ejercicio10.py:70] DEBUG:Se va a tocar el instrumento: guitarra
+[03:25:22 PM: Ejercicio10.py:72] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:25:22 PM: Ejercicio10.py:90] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:25:22 PM: Ejercicio10.py:92] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:25:22 PM: Ejercicio10.py:110] DEBUG:Se va a tocar el instrumento: piano
+[03:25:22 PM: Ejercicio10.py:112] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:25:22 PM: Ejercicio10.py:131] DEBUG:Se va a tocar el instrumento: tambor
+[03:25:22 PM: Ejercicio10.py:133] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[03:26:39 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:26:39 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[03:26:39 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:26:39 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra electrica
+
+[03:26:39 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: piano
+[03:26:39 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: piano
+
+[03:26:39 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: tambor
+[03:26:39 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:26:39 PM: Ejercicio10.py:70] DEBUG:Se va a tocar el instrumento: guitarra
+[03:26:39 PM: Ejercicio10.py:161] ERROR:El instrumento guitarra no está afinado correctamente
+[03:26:39 PM: Ejercicio10.py:91] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:26:39 PM: Ejercicio10.py:93] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[03:26:39 PM: Ejercicio10.py:112] DEBUG:Se va a tocar el instrumento: piano
+[03:26:39 PM: Ejercicio10.py:161] ERROR:El instrumento piano no está afinado correctamente
+[03:26:39 PM: Ejercicio10.py:134] DEBUG:Se va a tocar el instrumento: tambor
+[03:26:39 PM: Ejercicio10.py:161] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:35:04 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:35:04 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[03:35:04 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:35:04 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra electrica
+
+[03:35:04 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: piano
+[03:35:04 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: piano
+
+[03:35:04 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: tambor
+[03:35:04 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:35:04 PM: Ejercicio10.py:171] ERROR:El instrumento guitarra no está afinado correctamente
+[03:35:04 PM: Ejercicio10.py:100] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:35:04 PM: Ejercicio10.py:171] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:35:04 PM: Ejercicio10.py:122] DEBUG:Se va a tocar el instrumento: piano
+[03:35:04 PM: Ejercicio10.py:171] ERROR:El instrumento piano no está afinado correctamente
+[03:35:04 PM: Ejercicio10.py:144] DEBUG:Se va a tocar el instrumento: tambor
+[03:35:04 PM: Ejercicio10.py:146] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[03:36:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:36:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[03:36:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:36:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra electrica
+
+[03:36:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: piano
+[03:36:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: piano
+
+[03:36:09 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: tambor
+[03:36:09 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:36:09 PM: Ejercicio10.py:80] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[03:36:09 PM: Ejercicio10.py:54] DEBUG:Se va a tocar el instrumento: guitarra
+[03:36:09 PM: Ejercicio10.py:100] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:36:09 PM: Ejercicio10.py:171] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:36:09 PM: Ejercicio10.py:122] DEBUG:Se va a tocar el instrumento: piano
+[03:36:09 PM: Ejercicio10.py:124] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:36:09 PM: Ejercicio10.py:144] DEBUG:Se va a tocar el instrumento: tambor
+[03:36:09 PM: Ejercicio10.py:171] ERROR:El instrumento tambor no está afinado correctamente
+
+[03:39:24 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[03:39:24 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[03:39:24 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[03:39:24 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra electrica
+
+[03:39:24 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: piano
+[03:39:24 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: piano
+
+[03:39:24 PM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: tambor
+[03:39:24 PM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: tambor
+
+[03:39:24 PM: Ejercicio10.py:72] DEBUG:Se va a tocar el instrumento: guitarra
+[03:39:24 PM: Ejercicio10.py:164] ERROR:El instrumento guitarra no está afinado correctamente
+[03:39:24 PM: Ejercicio10.py:93] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[03:39:24 PM: Ejercicio10.py:164] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[03:39:24 PM: Ejercicio10.py:115] DEBUG:Se va a tocar el instrumento: piano
+[03:39:24 PM: Ejercicio10.py:117] DEBUG:Se está tocando correctamente el instrumento: piano
+[03:39:24 PM: Ejercicio10.py:137] DEBUG:Se va a tocar el instrumento: tambor
+[03:39:24 PM: Ejercicio10.py:164] ERROR:El instrumento tambor no está afinado correctamente
+
+[09:34:49 AM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra
+[09:34:49 AM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra
+
+[09:34:49 AM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: guitarra electrica
+[09:34:49 AM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: guitarra electrica
+
+[09:34:49 AM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: piano
+[09:34:49 AM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: piano
+
+[09:34:49 AM: Ejercicio10.py:46] DEBUG:Se va ha afinar el instrumento: tambor
+[09:34:49 AM: Ejercicio10.py:47] DEBUG:Se ha afinado el instrumento: tambor
+
+[09:34:49 AM: Ejercicio10.py:114] DEBUG:Se va a tocar el instrumento: guitarra
+[09:34:49 AM: Ejercicio10.py:230] ERROR:El instrumento guitarra no está afinado correctamente
+[09:34:49 AM: Ejercicio10.py:143] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[09:34:49 AM: Ejercicio10.py:145] DEBUG:Se está tocando correctamente el instrumento: guitarra electrica
+[09:34:49 AM: Ejercicio10.py:173] DEBUG:Se va a tocar el instrumento: piano
+[09:34:49 AM: Ejercicio10.py:230] ERROR:El instrumento piano no está afinado correctamente
+[09:34:49 AM: Ejercicio10.py:203] DEBUG:Se va a tocar el instrumento: tambor
+[09:34:49 AM: Ejercicio10.py:205] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[10:00:17 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:00:17 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:00:17 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:00:17 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:00:17 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:00:17 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:00:17 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:00:17 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:00:17 AM: Ejercicio10.py:114] DEBUG:Se va a tocar el instrumento: guitarra
+[10:00:17 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra no está afinado correctamente
+[10:00:17 AM: Ejercicio10.py:143] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[10:00:17 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:00:17 AM: Ejercicio10.py:173] DEBUG:Se va a tocar el instrumento: piano
+[10:00:17 AM: Ejercicio10.py:231] ERROR:El instrumento piano no está afinado correctamente
+[10:00:17 AM: Ejercicio10.py:203] DEBUG:Se va a tocar el instrumento: tambor
+[10:00:17 AM: Ejercicio10.py:231] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:01:20 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:01:20 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:01:20 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:01:20 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:01:20 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:01:20 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:01:20 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:01:20 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:01:20 AM: Ejercicio10.py:114] DEBUG:Se va a tocar el instrumento: guitarra
+[10:01:20 AM: Ejercicio10.py:116] DEBUG:Se está tocando correctamente el instrumento: guitarra
+[10:01:20 AM: Ejercicio10.py:143] DEBUG:Se va a tocar el instrumento: guitarra electrica
+[10:01:20 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:01:20 AM: Ejercicio10.py:173] DEBUG:Se va a tocar el instrumento: piano
+[10:01:20 AM: Ejercicio10.py:231] ERROR:El instrumento piano no está afinado correctamente
+[10:01:20 AM: Ejercicio10.py:203] DEBUG:Se va a tocar el instrumento: tambor
+[10:01:20 AM: Ejercicio10.py:205] DEBUG:Se está tocando correctamente el instrumento: tambor
+
+[10:06:29 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:06:29 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:06:29 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:06:29 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:06:29 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:06:29 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:06:29 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:06:29 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:06:29 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:06:29 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:06:29 AM: Ejercicio10.py:231] ERROR:El instrumento piano no está afinado correctamente
+[10:06:29 AM: Ejercicio10.py:231] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:09:49 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:09:49 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:09:49 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:09:49 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:09:49 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:09:49 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:09:49 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:09:49 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:09:49 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:09:49 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:09:49 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:09:49 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:09:49 AM: Ejercicio10.py:45] DEBUG:Antes de ejecucion  afinarInstrumento
+[10:09:49 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:09:49 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:09:49 AM: Ejercicio10.py:47] DEBUG:Después de ejecución afinarInstrumento
+
+[10:09:49 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:09:49 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:09:49 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:09:49 AM: Ejercicio10.py:231] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:10:08 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:10:08 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:10:08 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:10:08 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:10:08 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:10:08 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:10:08 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:10:08 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:10:08 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:10:08 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:10:08 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:10:08 AM: Ejercicio10.py:231] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:13:52 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:13:52 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:13:52 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:13:52 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:13:52 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:13:52 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:13:52 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:13:52 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:13:52 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:13:52 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:13:52 AM: Ejercicio10.py:232] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:13:52 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:13:52 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:13:52 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:13:52 AM: Ejercicio10.py:205] INFO:Se está tocando correctamente el instrumento: tambor
+
+[10:14:29 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:14:29 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:14:29 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:14:29 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:14:29 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:14:29 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:14:29 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:14:29 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:14:29 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra no está afinado correctamente
+[10:14:29 AM: Ejercicio10.py:232] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:14:29 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:14:29 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:14:29 AM: Ejercicio10.py:231] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:14:29 AM: Ejercicio10.py:232] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:14:29 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:14:29 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:14:29 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:14:29 AM: Ejercicio10.py:231] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:14:29 AM: Ejercicio10.py:232] INFO:El concierto se detiene porque tambor no esta afinado
+[10:14:29 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:14:29 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:20:49 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:20:49 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:20:49 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:20:49 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:20:49 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:20:49 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:20:49 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:20:49 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:20:49 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:20:49 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:20:49 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:20:49 AM: Ejercicio10.py:205] INFO:Se está tocando correctamente el instrumento: tambor
+
+[10:20:56 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:20:56 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:20:56 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:20:56 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:20:56 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:20:56 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:20:56 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:20:56 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:20:56 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:20:56 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:20:56 AM: Ejercicio10.py:232] ERROR:El instrumento piano no está afinado correctamente
+[10:20:56 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque piano no esta afinado
+[10:20:56 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:20:56 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque tambor no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento piano no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque piano no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento piano no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque piano no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque tambor no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento piano no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque piano no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento guitarra no está afinado correctamente
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:232] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:22:23 AM: Ejercicio10.py:233] INFO:El concierto se detiene porque tambor no esta afinado
+[10:22:23 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:22:23 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:22:23 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:22:23 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:22:23 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:22:23 AM: Ejercicio10.py:205] INFO:Se está tocando correctamente el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque tambor no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque tambor no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque tambor no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento tambor no está afinado correctamente
+
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque tambor no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento piano no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque piano no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:241] ERROR:El instrumento guitarra electrica no está afinado correctamente
+[10:25:16 AM: Ejercicio10.py:242] INFO:El concierto se detiene porque guitarra electrica no esta afinado
+[10:25:16 AM: Ejercicio10.py:108] INFO:Se va ha afinar el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:110] INFO:Se ha afinado el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:136] INFO:Se va ha afinar el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:138] INFO:Se ha afinado el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:166] INFO:Se va ha afinar el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:168] INFO:Se ha afinado el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:196] INFO:Se va ha afinar el instrumento: tambor
+[10:25:16 AM: Ejercicio10.py:198] INFO:Se ha afinado el instrumento: tambor
+
+[10:25:16 AM: Ejercicio10.py:116] INFO:Se está tocando correctamente el instrumento: guitarra
+[10:25:16 AM: Ejercicio10.py:145] INFO:Se está tocando correctamente el instrumento: guitarra electrica
+[10:25:16 AM: Ejercicio10.py:175] INFO:Se está tocando correctamente el instrumento: piano
+[10:25:16 AM: Ejercicio10.py:211] INFO:Se está aporreando correctamente el instrumento: tambor
+
