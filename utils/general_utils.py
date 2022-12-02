@@ -1,5 +1,5 @@
 import random
-import utils.logging_hospital as log
+import utils.logging_general as log
 
 
 def generar_aleatorio_booleano (rango_true, inicio=0, fin=10):

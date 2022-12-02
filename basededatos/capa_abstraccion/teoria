@@ -1,0 +1,6 @@
+DATA ACCESS OBJECT
+
+La idea es que por cada tabla tengamos una clase que represente a esa tabla y ahi meteremos las operaciones que
+realicemos sobre esa tabla, así tendremos separada la capa de negocio que es donde hacemos la logica de la capa
+de abstraccion y  por otro lado, tendremos separada la capa de DAO(LO DE ARRIBA) que será la que acceda a la base
+de datos.

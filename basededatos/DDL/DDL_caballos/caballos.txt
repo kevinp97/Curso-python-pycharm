@@ -1,0 +1,10 @@
+CREATE TABLE `caballos` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(45) DEFAULT NULL,
+  `fecha_nacimiento` datetime DEFAULT NULL,
+  `velocidad` int DEFAULT NULL,
+  `experiencia` int DEFAULT NULL,
+  `valor_apuesta` int DEFAULT NULL,
+  `id_GP` int DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
